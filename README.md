@@ -311,4 +311,4 @@ If you use this project in your research, please cite:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yourusername/ai-wind-farm-optimizer&type=Date)](https://star-history.com/#yourusername/ai-wind-farm-optimizer&Date)
 
-**Made with ❤️ by [Your Team Name] | Powering the future of renewable energy with AI**
+**Made with ❤️ by [Team Name] | Powering the future of renewable energy with AI**
