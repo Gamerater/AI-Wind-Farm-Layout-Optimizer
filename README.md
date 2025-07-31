@@ -5,7 +5,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow 2.x](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/ai-wind-farm-optimizer)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ijZtAXDE2-2kk4tiukIMwY_pL82SAIAZ?usp=sharing)
 
 ## 🎯 Project Overview
 
@@ -25,7 +25,7 @@ This project develops an AI-powered system that optimizes wind turbine placement
 ### Option 1: Google Colab (Recommended)
 ```bash
 # Click the Colab badge above or open this link:
-# https://colab.research.google.com/github/yourusername/ai-wind-farm-optimizer
+# https://colab.research.google.com/drive/1ijZtAXDE2-2kk4tiukIMwY_pL82SAIAZ?usp=sharing
 ```
 
 ### Option 2: Local Installation
