@@ -30,7 +30,7 @@ This project develops an AI-powered system that optimizes wind turbine placement
 
 ### Option 2: Local Installation
 ```bash
-git clone https://github.com/yourusername/ai-wind-farm-optimizer.git
+git clone https://github.com/Gamerater/AI-Wind-Farm-Layout-Optimizer.git
 cd ai-wind-farm-optimizer
 pip install -r requirements.txt
 python main.py --demo
