@@ -3,9 +3,9 @@
 A collaborative AI system for optimizing wind turbine placement to maximize power output using machine learning techniques.
 
 ## Team Members
-- **Member 1**: Physics & ML Specialist (Jensen wake model, power calculations)
-- **Member 2**: Environment & Systems Specialist (Reinforcement Learning environment)
-- **Member 3**: Data Visualization Specialist (Visualization and analysis tools)
+- **Yuvraj Singh Shekhawat**: Physics & ML Specialist (Jensen wake model, power calculations)
+- **Kaushal Yadav**: Environment & Systems Specialist (Reinforcement Learning environment)
+- **Daksh Bansal**: Data Visualization Specialist (Visualization and analysis tools)
 
 ## Project Overview
 
@@ -119,5 +119,6 @@ MIT License - see LICENSE file for details.
 5. Submit a pull request
 
 ## Contact
+
 
 For questions or issues, please create an issue in the repository. 
