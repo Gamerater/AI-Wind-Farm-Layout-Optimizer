@@ -1,0 +1,93 @@
+# AI Wind Farm Optimization Configuration
+
+# Project Settings
+project:
+  name: "AI Wind Farm Optimizer"
+  version: "1.0.0"
+  description: "AI-driven wind farm layout optimization"
+
+# Wind Farm Parameters
+wind_farm:
+  # Physical parameters
+  farm_width: 2000  # meters
+  farm_height: 2000  # meters
+  turbine_diameter: 90  # meters
+  hub_height: 80  # meters
+  
+  # Optimization constraints
+  min_turbine_distance: 300  # meters
+  max_turbines: 50
+  
+  # Performance parameters
+  rated_power: 2000  # kW per turbine
+  cut_in_speed: 3.0  # m/s
+  cut_out_speed: 25.0  # m/s
+  rated_speed: 12.0  # m/s
+
+# Wind Data Parameters
+wind_data:
+  # Wind speed distribution (Weibull parameters)
+  weibull_k: 2.0
+  weibull_c: 8.0
+  
+  # Wind direction distribution
+  direction_bins: 16
+  dominant_direction: 270  # degrees (West)
+  
+  # Time series parameters
+  time_resolution: "1H"  # 1 hour intervals
+  simulation_duration: 8760  # hours (1 year)
+
+# Visualization Settings
+visualization:
+  # Plot settings
+  figure_size: [12, 8]
+  dpi: 300
+  style: "seaborn-v0_8"
+  
+  # Color schemes
+  colors:
+    primary: "#1f77b4"
+    secondary: "#ff7f0e"
+    success: "#2ca02c"
+    warning: "#d62728"
+    info: "#9467bd"
+  
+  # Interactive settings
+  plotly:
+    template: "plotly_white"
+    show_legend: true
+    height: 600
+    width: 800
+
+# Machine Learning Parameters
+ml:
+  # Model settings
+  random_state: 42
+  test_size: 0.2
+  validation_size: 0.1
+  
+  # Training parameters
+  learning_rate: 0.001
+  batch_size: 32
+  epochs: 100
+  
+  # Optimization
+  population_size: 50
+  generations: 100
+  mutation_rate: 0.1
+  crossover_rate: 0.8
+
+# File Paths
+paths:
+  data: "data/"
+  results: "results/"
+  models: "models/"
+  plots: "results/plots/"
+  logs: "logs/"
+
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/wind_farm_optimizer.log" 
