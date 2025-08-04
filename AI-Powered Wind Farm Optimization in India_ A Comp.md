@@ -1,7 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# AI-Powered Wind Farm Optimization in India: A Comprehensive Project Report
-
 ## Executive Summary
 
 India's wind energy sector presents a remarkable opportunity for implementing artificial intelligence (AI) solutions to optimize wind farm placement and operations. With the world's fourth-largest installed wind capacity of **51.5 GW**[^1][^2][^3] and a massive untapped potential of **1,164 GW at 150m height**[^4][^5], India is positioned to become a global leader in AI-driven wind energy optimization.
