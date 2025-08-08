@@ -2,9 +2,9 @@
 
 # Project Settings
 project:
-  name: "AI Wind Farm Optimizer"
+  name: "AI Wind Farm Optimizer Prototype"
   version: "1.0.0"
-  description: "AI-driven wind farm layout optimization"
+  description: "AI-driven wind farm layout optimization prototype"
 
 # Wind Farm Parameters
 wind_farm:
